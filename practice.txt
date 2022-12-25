@@ -1,0 +1,11 @@
+𝗡𝗼𝘄 𝗰𝗼𝗺𝗲𝘀 𝘁𝗵𝗲 𝗽𝗮𝗿𝘁 𝗼𝗳 𝗰𝗼𝗻𝘀𝘁𝗮𝗻𝘁 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗲 :
+
+1. DataLemur 🐒 (Ace the SQL & Data Interview) Has the best source to practice SQL for interviews, created by the one and only Nick Singh 📕🐒
+
+2. If you want to understand the problems you can refer to Ankit Bansal's Youtube where you can get good understanding of the problems.
+
+3. Deepak K has solved some of the best Questions you can get on SQL, You can refer from his posts.
+
+4. And there are so much more that you can cover from here W3Schools.com's  https://lnkd.in/ggpDm29k
+
+5. Samarth Singhal is solving the SQL problems now, he updates daily and can practice from there.
